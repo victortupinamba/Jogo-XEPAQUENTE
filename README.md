@@ -1,5 +1,5 @@
 # Jogo-Gourmet em Ação
-Maria Clara e Victor Tupinamba 3JD
+#### Maria Clara e Victor Tupinamba 3JD
 
 ### Objetivo:
 O objetivo de nosso jogo é coletar o máximo de intens na menor quantida de tempo possível.
