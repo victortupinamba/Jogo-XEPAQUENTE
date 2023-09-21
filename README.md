@@ -17,7 +17,7 @@ Buscamos através da programação, gerar o maior nível de interatividade do jo
 
 
 
-https://github.com/victortupinamba/Jogo-XEPAQUENTE/assets/101647391/66f179bf-1e05-426c-8f23-fa54cd58c446
+[https://github.com/victortupinamba/Jogo-XEPAQUENTE/assets/101647391/66f179bf-1e05-426c-8f23-fa54cd58c446](https://www.youtube.com/watch?v=DFF7Mn2ZwzA)
 
 
 
