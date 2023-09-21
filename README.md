@@ -1,6 +1,7 @@
 # Jogo-Gourmet em Ação
 #### Maria Clara e Victor Tupinamba 3JD
-## Link do Vídeo: https://www.youtube.com/watch?v=DFF7Mn2ZwzA 
+#### Link do Vídeo: https://www.youtube.com/watch?v=DFF7Mn2ZwzA 
+#### Link do Drive: https://drive.google.com/drive/folders/1zUWzOO9Bor3vbLJWKxsuZqaIRpTdWbDb?usp=sharing 
 
 
 ### Objetivo:
@@ -27,6 +28,8 @@ Na fase 2, o jogador deve coletar os vegetais e legumes.
 
 ### Programação:
 Buscamos através da programação, gerar o maior nível de interatividade do jogador e diversão para prender os jogadores.
+
+
 https://github.com/victortupinamba/Jogo-XEPAQUENTE/assets/101645595/10407c2a-7cd1-48e1-a266-008897d537e5
 
 
